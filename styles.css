@@ -65,6 +65,11 @@ footer {
   margin-right: 10px;
 }
 
+#full-width-image{
+  max-width: 99%;
+  max-height: 99%;
+}
+
 #headline {
   display: flex;
   align-items: center;
